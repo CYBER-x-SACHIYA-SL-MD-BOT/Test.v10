@@ -17,7 +17,7 @@ WhatsApp Me : 263775571820
 require("./all/module.js")
 
 //========== Setting Owner ==========//
-global.owner = "263775571820"
+global.owner = "+94702782946"
 global.namaowner = "TKM-mods"
 global.namaowner2 = "TKM-mods"
 
